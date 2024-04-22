@@ -1,2 +1,2 @@
 # goit-js-hw-06
-Homework №5
+Homework №6
